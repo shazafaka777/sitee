@@ -157,9 +157,9 @@ background: linear-gradient(to bottom, #ef473a, #cb2d3e);
 .menu-open-button {
   background: #EEEEEE;
   border-radius: 100%;
-  width: 120px;
-  height: 120px;
-  margin-left: -40px;
+  width: 80px;
+  height: 80px;
+  margin-left: -110px;
   position: absolute;
   color: #FFFFFF;
   text-align: center;
